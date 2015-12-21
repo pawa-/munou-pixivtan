@@ -29,9 +29,6 @@ config.conf の [twitter\_api] をあなたが取得したもの書き換えて
 
 ```
 cpanm Carton
-```
-
-```
 carton install
 ```
 
