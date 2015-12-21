@@ -8,6 +8,33 @@
 
 ### 背景画像
 
-以下からダウンロードして public/img/back/heya_hiru.jpg に配置してほしい。
+以下からダウンロードして public/img/back/heya\_hiru.jpg に配置してください。
 
-http://www.studio-74.net/material/10background/10023_iinchoheya_a.jpg
+http://www.studio-74.net/material/10background/10023\_iinchoheya\_a.jpg
+
+
+## 学習
+
+config.conf の [twitter\_api] をあなたが取得したもの書き換えて
+
+```
+./learning
+```
+
+してください。
+
+## 起動
+
+事前に
+
+```
+carton install
+```
+
+して
+
+```
+./munou
+```
+
+で起動してください。
