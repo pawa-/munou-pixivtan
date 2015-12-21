@@ -10,7 +10,7 @@
 
 以下からダウンロードして public/img/back/heya\_hiru.jpg に配置してください。
 
-http://www.studio-74.net/material/10background/10023\_iinchoheya\_a.jpg
+http://www.studio-74.net/material/10background/10023_iinchoheya_a.jpg
 
 
 ## 学習
