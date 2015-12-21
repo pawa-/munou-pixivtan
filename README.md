@@ -28,6 +28,10 @@ config.conf の [twitter\_api] をあなたが取得したもの書き換えて
 事前に
 
 ```
+cpanm Carton
+```
+
+```
 carton install
 ```
 
@@ -38,3 +42,9 @@ carton install
 ```
 
 で起動してください。
+
+## 補足
+
+### インストールしたのに carton がないと怒られる
+
+plenv を使っている場合は、plenv rehash するといいかも。
